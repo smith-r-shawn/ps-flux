@@ -8,7 +8,8 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router-dom": "^5.0.0",
-    "react-scripts": "3.0.1"
+    "react-scripts": "3.0.1",
+    "react-toastify": "^5.1.1"
   },
   "scripts": {
     "start": "run-p start:dev start:api",
@@ -38,7 +39,8 @@
     "cross-env": "^5.2.0",
     "json-server": "^0.15.0",
     "npm-run-all": "^4.1.5",
-    "prettier": "1.18.2"
+    "prettier": "1.18.2",
+    "prop-types": "latest"
   },
   "prettier": {
     "trailingComma": "es5",
